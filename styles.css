@@ -1,0 +1,125 @@
+body {
+  background-color: #f4f4f4;
+}
+
+.nav-wrapper {
+  background-color: #f4f4f4;
+  color: #000;
+}
+
+nav {
+  color: #000;
+}
+
+.brand-logo img {
+  width: auto;
+  height: 60px;
+}
+
+.new_color {
+  color: #000;
+}
+
+.new_color1 {
+  color: #2bace2;
+}
+
+.new_color2 {
+  color: #e9188c;
+}
+
+#photo1 {
+  background-image: url("https://static.artofwhere.net/img/home-slider/wood-prints-1.jpg");
+  background-size: cover;
+  background-position: center;
+  text-shadow: 1px 1px #000;
+}
+
+#photo2 {
+  background-image: url("https://static.artofwhere.net/img/pages/fabric/fabric-printing-bg.jpg");
+  background-size: cover;
+  background-position: center;
+  text-shadow: 1px 1px #000;
+}
+
+#photo3 {
+  background-image: url("https://static.artofwhere.net/img/home-slider/girl-running-custom-printed-shorts.jpg");
+  background-size: cover;
+  background-position: center;
+  text-shadow: 1px 1px #000;
+  text-align: left;
+}
+
+#photo4 {
+  background-image: url("https://static.artofwhere.net/img/pages/drop-ship/bigcartel/artist-workplace.jpg");
+  background-size: cover;
+  background-position: center;
+  text-shadow: 1px 1px #000;
+}
+
+#photo5 {
+  background-image: url("https://static.artofwhere.net/img/home-slider/girl-sewing.jpg");
+  background-size: cover;
+  background-position: center;
+  text-shadow: 1px 1px #000;
+  text-align: right;
+}
+
+.big {
+  font-size: 500px;
+}
+
+.row {
+  display: inline-block;
+}
+
+#bi1 {
+  background-image: url("https://static.artofwhere.net/img/home-tiles/wholesale-device-cases.jpg");
+  height: 300px;
+}
+
+#bi2 {
+  background-image: url("https://static.artofwhere.net/img/home-tiles/orange-bg.jpg");
+  height: 300px;
+}
+
+#bi3 {
+  background-image: url("https://static.artofwhere.net/img/home-tiles/fabric-bg.jpg");
+  height: 300px;
+}
+
+
+.sh {
+  opacity: 0;
+}
+h4 {
+  text-shadow: 1px 1px #000;
+}
+
+.lowrow {
+  height: 300px;
+}
+
+#bi4 {
+  background-image: url("https://static.artofwhere.net/img/create/thumbnails/leggings.jpg");
+  height: 300px;
+}
+
+#bi5 {
+  background-image: url("https://static.artofwhere.net/img/create/thumbnails/pillow22x22.jpg");
+  height: 300px;
+}
+
+#bi6 {
+  background-image: url("https://static.artofwhere.net/img/create/thumbnails/square-scarf.jpg");
+  height: 300px;
+}
+
+#bi7 {
+  background-image: url("https://static.artofwhere.net/img/create/thumbnails/iphone6.jpg");
+  height: 300px;
+}
+
+#btnclk {
+  text-align: center;
+}
